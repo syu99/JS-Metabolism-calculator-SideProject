@@ -1,0 +1,16 @@
+body{
+    background-image: url("01.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-position-y: 190px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
